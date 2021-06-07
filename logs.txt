@@ -1,6 +1,0 @@
-========== Instagram Login ==========
-User: dddd
-Pass: ddddd
-----------
-IP: 127.0.0.1
-Log : 08:42:08 / 07-6-2021 
